@@ -1,0 +1,30 @@
+John likes to watch movies and Mary likes movies too
+John likes watch movies Mary likes movies
+
+
+John also likes to watch football games
+John also likes watch football games
+
+
+A large elephant swallowed a small ant
+large elephant swallowed small ant
+
+
+A purple pig and a green cat flew a kite in the middle of the night and ended up sunburnt
+purple pig green cat flew kite middle night ended sunburnt
+
+
+In three week�s time I saw three big spotted striped shake hands with a legless lizard in a big store
+In three week�s time I saw three big spotted striped shake hands legless lizard big store
+
+
+Sentence 0
+{small=0, A=0, big=0, shake=0, hands=0, In=0, John=1, sunburnt=0, I=0, three=0, pig=0, spotted=0, movies=2, swallowed=0, too=1, and=1, cat=0, flew=0, of=0, games=0, up=0, lizard=0, likes=2, Mary=1, a=0, striped=0, green=0, middle=0, large=0, week�s=0, in=0, ant=0, night=0, saw=0, also=0, football=0, store=0, the=0, with=0, watch=1, ended=0, purple=0, to=1, time=0, elephant=0, kite=0, legless=0}
+Sentence 2
+{small=1, A=1, big=0, shake=0, hands=0, In=0, John=0, sunburnt=0, I=0, three=0, pig=0, spotted=0, movies=0, swallowed=1, too=0, and=0, cat=0, flew=0, of=0, games=0, up=0, lizard=0, likes=0, Mary=0, a=1, striped=0, green=0, middle=0, large=1, week�s=0, in=0, ant=1, night=0, saw=0, also=0, football=0, store=0, the=0, with=0, watch=0, ended=0, purple=0, to=0, time=0, elephant=1, kite=0, legless=0}
+Sentence 1
+{small=0, A=0, big=0, shake=0, hands=0, In=0, John=1, sunburnt=0, I=0, three=0, pig=0, spotted=0, movies=0, swallowed=0, too=0, and=0, cat=0, flew=0, of=0, games=1, up=0, lizard=0, likes=1, Mary=0, a=0, striped=0, green=0, middle=0, large=0, week�s=0, in=0, ant=0, night=0, saw=0, also=1, football=1, store=0, the=0, with=0, watch=1, ended=0, purple=0, to=1, time=0, elephant=0, kite=0, legless=0}
+Sentence 4
+{small=0, A=0, big=2, shake=1, hands=1, In=1, John=0, sunburnt=0, I=1, three=2, pig=0, spotted=1, movies=0, swallowed=0, too=0, and=0, cat=0, flew=0, of=0, games=0, up=0, lizard=1, likes=0, Mary=0, a=2, striped=1, green=0, middle=0, large=0, week�s=1, in=1, ant=0, night=0, saw=1, also=0, football=0, store=1, the=0, with=1, watch=0, ended=0, purple=0, to=0, time=1, elephant=0, kite=0, legless=1}
+Sentence 3
+{small=0, A=1, big=0, shake=0, hands=0, In=0, John=0, sunburnt=1, I=0, three=0, pig=1, spotted=0, movies=0, swallowed=0, too=0, and=2, cat=1, flew=1, of=1, games=0, up=1, lizard=0, likes=0, Mary=0, a=2, striped=0, green=1, middle=1, large=0, week�s=0, in=1, ant=0, night=1, saw=0, also=0, football=0, store=0, the=2, with=0, watch=0, ended=1, purple=1, to=0, time=0, elephant=0, kite=1, legless=0}
