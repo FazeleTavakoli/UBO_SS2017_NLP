@@ -1,0 +1,4 @@
+For executing this code, you should add stanford-corenlp-3.7.0.jar file to your project.
+art_and_culture-20893614.txt file is used as a input and art_and_culture-20893614_test.txt file 
+is used as the corresponding test file.
+Both of this files are available in 500N-KPCrowd-v1.1 dataset.
